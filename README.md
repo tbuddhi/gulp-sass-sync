@@ -1,1 +1,1 @@
-# gulp-sass-sync
+# Gulp-Sass and BrowserSync
