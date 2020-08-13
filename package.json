@@ -1,0 +1,19 @@
+{
+  "name": "GulpTask Testing",
+  "version": "1.0.0",
+  "description": "Test for gulp task",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "TBuddhi",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
